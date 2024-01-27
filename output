@@ -1,0 +1,71 @@
+Student Management System Menu:
+1. Add a new student
+2. Remove a student
+3. Search for a student        
+4. Display all students        
+5. Exit
+Enter your choice: 1
+
+Enter student details:
+Name: riya
+Roll Number: 1
+Grade: 1
+Comment: good
+Student added successfully!
+
+Student Management System Menu:
+1. Add a new student
+2. Remove a student
+3. Search for a student
+4. Display all students
+5. Exit
+Enter your choice: 1
+
+Enter student details:
+Name: reza
+Roll Number: 2
+Grade: 1
+Comment: better
+Student added successfully!
+
+Student Management System Menu:
+1. Add a new student
+2. Remove a student
+3. Search for a student
+4. Display all students
+5. Exit
+Enter your choice: 2
+Enter the Roll Number of the student to remove: 2
+       at StudentManagementSystemApp.main(StudentManagementSystemApp.java:28)
+Student removed successfully!
+
+Student Management System Menu:
+1. Add a new student
+2. Remove a student
+3. Search for a student
+4. Display all students
+5. Exit
+Enter your choice: 3
+Enter the Roll Number of the student to search: 1
+Student found:
+Name: riya, Roll Number: 1, Grade: 1,comment:good
+
+Student Management System Menu:
+1. Add a new student
+2. Remove a student
+3. Search for a student
+4. Display all students
+5. Exit
+Enter your choice: 4
+
+All Students in the System:
+Name: riya, Roll Number: 1, Grade: 1,comment:good
+
+Student Management System Menu:
+1. Add a new student
+2. Remove a student
+3. Search for a student
+4. Display all students
+5. Exit
+Enter your choice: 5
+Exiting the application. Goodbye!
